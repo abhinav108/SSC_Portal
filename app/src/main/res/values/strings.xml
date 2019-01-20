@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SSC_Portal</string>
+    <string name="title_activity_device_name">device_name</string>
+</resources>
